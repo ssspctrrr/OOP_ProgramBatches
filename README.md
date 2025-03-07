@@ -1,6 +1,6 @@
-PROMPTS FOR THE PYTHON PROGRAMS
+__PROMPTS FOR THE PYTHON PROGRAMS__
 
-> Batch 1:
+__Batch 1:__
 Prog01: Create a program that ask user to input 2 numbers. Print the bigger number.
 Prog02: Create a program that ask user to input 2 numbers. Print "Equal" when the numbers are the same.
 Prog03: Create a program that ask user to input 2 numbers. Print the sum of the two numbers.
@@ -12,7 +12,7 @@ Prog08: Create a program that ask user to input 10 numbers. Print how many are o
 Prog09: Create a program that print all the even numbers starting from 0 to 100. (Use for loop)
 Prog10: Create a program that print all the numbers starting from 0 to 100 except numbers ending in zero.
 
-> Batch 2:
+__Batch 2:__
 Prog01: Create a program that ask user to input 2 numbers. Print the smaller number.
 Prog02: Create a program that ask user to input 2 numbers. Print "Not Equal" when the numbers are not the same.
 Prog03: Create a program that ask user to input 2 numbers. Print the difference of the two numbers.
